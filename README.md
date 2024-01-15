@@ -11,5 +11,7 @@ Run the script to predict labels for random test images and save the result:
 
 python src/run.py
 
+![Digit Recognizer](predicted_images.png)
+
 ### Results
 The model achieves a training accuracy of approximately 98% and a validation accuracy of approximately 98%.
