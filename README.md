@@ -1,4 +1,4 @@
-# Mnist
+# Digit-Recognizer
 A digit recognition project using the MNIST dataset. The project includes data visualization, model training, and prediction.
 
 ### Installation
