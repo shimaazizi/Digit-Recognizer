@@ -8,6 +8,7 @@ cd Digit-Recognizer
 
 ### Prediction
 Run the script to predict labels for random test images and save the result:
+
 python src/run.py
 
 ### Results
